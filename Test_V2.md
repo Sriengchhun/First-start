@@ -11,6 +11,7 @@
   5. Add the signals that need to be viewed in the Waveform viewer. This can be done by selecting the appropriate functions in the **Scope** window in Vivado, right-clicking and selecting **Add to Wave Window**. The signals within that function are then added to the waveform viewer.  
 
   6. Click on the **Run All** or **Run for** button to start the programmable logic simulation after selecting your signals.  
-  ![](./home/chhun/Pictures/Screenshot from 2021-02-09 10-41-27.png) 
-  /home/chhun/Pictures/Screenshot from 2021-02-09 10-41-27.png
+    ![](home/chhun/Pictures/Screenshot from 2021-02-09 10-41-27.png)
+    
+    
 </details>
